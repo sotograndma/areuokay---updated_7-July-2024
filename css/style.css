@@ -1,0 +1,260 @@
+body::-webkit-scrollbar {
+    display: none;
+}
+
+.color_cream{
+    color: rgb(255, 246, 224);
+}
+
+.border_cream{
+    border-color: rgb(255, 246, 224);
+}
+
+.color_abuGelap{
+    color: rgb(33, 34, 35);
+}
+
+.color_abuMuda{
+    color: rgb(39, 40, 41);
+}
+
+.bg_cream{
+    background-color: rgb(255, 246, 224);
+}
+
+.bg_abuGelap{
+    background-color: rgb(33, 34, 35);
+}
+
+.bg_abuMuda{
+    background-color: rgb(39, 40, 41);
+}
+
+
+.navbar{
+    background-color: rgb(33, 34, 35);
+}
+
+.btn_signup{
+    background-color: rgb(39, 40, 41);
+    width: 100px;
+}
+
+.btn-outline-warning{
+    outline-color: rgb(255, 246, 224);
+}
+
+.aruokay_navbar{
+    width: 70%;
+    height: 70%;
+}
+
+.navbottom{
+    position: relative;
+    top: 15px;
+}
+
+.kucinghome{
+    position: relative;
+    left: 250px;
+}
+
+.kucingabout{
+    position: relative;
+    left: 250px;
+}
+
+.home_pno_gerakin{
+    position: relative;
+    right: 570px;
+}
+
+.home_artikel_gerakin{
+    position: relative;
+    right: 640px;
+}
+
+.home_viewall_gerakin{
+    position: relative;
+    left: 640px;
+}
+
+.home_haiuser_gerakin{
+    position: relative;
+    right: 150px;
+}
+
+.article_porticle_gerakin{
+    position: relative;
+    right: 560px;
+}
+
+.article_viewall_gerakin{
+    position: relative;
+    left: 560px;
+}
+
+.darticle_text_gerakin{
+    position: relative;
+    bottom: 200px;
+}
+
+.darticle1_text_gerakin{
+    position: relative;
+    right: 27px;
+}
+
+.darticle2_text_gerakin{
+    position: relative;
+    right: 180px;
+}
+
+.margin_min5{
+    margin-top: -10px;
+}
+
+.margin_minpaymentdetail{
+    margin-top: -25px;
+}
+
+.border-radius-top{
+    border-radius: 30px 30px 0 0; 
+}
+
+.navbar-sticky{
+    position: sticky;
+}
+
+.medication{
+    position: relative;
+    top: 80px;
+    right: 67px;
+}
+
+.nounderline{
+    text-decoration: none;
+}
+
+.judul_medication{
+    position: relative;
+    right: 514px;
+}
+
+.detailmed_relevant_gerakin1{
+    position: relative;
+    right: 510px;
+}
+
+.detailmed_relviewall_gerakin1{
+    position: relative;
+    left: 500px;
+}
+
+.poparticle_porticle_gerakin{
+    position: relative;
+    right: 590px;
+}
+
+input[type='radio'] {
+    background-color: rgb(255, 246, 224);
+    border-color: rgb(39, 40, 41);
+}
+
+#exampleRadios1{
+    accent-color: red;
+}
+
+input[type=radio]#exampleRadios1 { 
+    accent-color: pink; 
+} 
+
+.button_gerakin{
+    position: relative;
+    top: 20px;
+    right: 30px;
+}
+
+.appointment_buttappointment_gerakin{
+    position: relative;
+    left: 45px;
+}
+
+.buttom_appoinment{
+    position: relative;
+    left: 505px;
+}
+
+.button_bawapsy_gerakin{
+    position: relative;
+    left: 345px;
+}
+
+.margin_mintop1{
+    margin-top: -12px;
+}
+
+.icon_appointment_gerakin{
+    position: relative;
+    bottom: 7px;
+}
+
+.kucing_appointmenttransc_gerakin{
+    position: relative;
+    left: 120px;
+}
+
+input::placeholder {
+    position: relative;
+    left: 5px;
+    color: rgb(255, 246, 224) !important;
+}
+
+input[type="text"]{
+    padding-inline: 45px;
+}
+
+.bringpsy_gerakin{
+    position: relative;
+    left: 40px;
+}
+
+input[type='radio']:after {
+    width: 30px;
+    height: 30px;
+    border-radius: 15px;
+    bottom: 8px;
+    right: 3px;
+    position: relative;
+    background-color: rgb(33, 34, 35);
+    content: '';
+    display: inline-block;
+    visibility: visible;
+    border: 2px solid rgb(255, 246, 224);
+}
+
+input[type='radio']:checked:after {
+    width: 30px;
+    height: 30px;
+    border-radius: 15px;
+    position: relative;
+    background-color: rgb(255, 246, 224);
+    content: '';
+    display: inline-block;
+    visibility: visible;
+    border: 2px solid rgb(39, 40, 41);
+}
+
+.payment_gerakin{
+    position: relative;
+    top: 7px;
+}
+
+.payment_logo_gerakin{
+    position: relative;
+    right: 22px;
+}
+
+.mandiri_payment_gerakin{
+    position: relative;
+    top: 10px;
+}
